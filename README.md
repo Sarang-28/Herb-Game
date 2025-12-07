@@ -7,4 +7,5 @@ This is a Java Swing desktop application.
 2. Open terminal in the download folder
 3. Run:
    java -jar HerbGame.jar
-
+4. Java (JDK 8+) must be installed first
+   
